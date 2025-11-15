@@ -1,2 +1,2 @@
 # forensic-logbook-app
-Proyecto base listo.
+Expo app: Forensic Logbook. Run: npx expo start
