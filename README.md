@@ -1,2 +1,5 @@
 # forensic-logbook-app
-Expo app: Forensic Logbook. Run: npx expo start
+React Native app (Expo) para registrar evidencia en campo.
+Instalación:
+npm install
+expo start
